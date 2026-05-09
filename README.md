@@ -1,4 +1,4 @@
-Click Here To Deploy This Project Demo:-https://abdomousa22.github.io/Ecommerce-App/.
+
 
 # 🛒 E-Commerce Platform
 
@@ -6,7 +6,7 @@ A full-featured e-commerce web application built with React.js, featuring shoppi
 
 ## 🔗 Links
 
-- **Live Demo:** [View App](YOUR_LIVE_DEMO_LINK)
+- **Live Demo:** [View App](https://abdomousa22.github.io/Ecommerce-App/)
 - **GitHub:** [View Code](https://github.com/AbdoMousa22/Ecommerce-App)
 
 ---
